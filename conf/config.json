@@ -1,6 +1,6 @@
 {
     "admin_id": [
-        134166731
+        1230663194
     ],
     "telegram": {
         "read_timeout": 10,
@@ -11,7 +11,7 @@
         "port": 8443,
         "privkey_path": "/path/to/privkey.pem",
         "cert_path": "/path/to/cert.pem",
-        "url": "https://somedomain.com"
+        "url": "https://KhanTeams.com"
     },
     "database": {
         "use_db": true,
